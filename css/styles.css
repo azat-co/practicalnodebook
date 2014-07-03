@@ -469,6 +469,13 @@ a i.icon-linkedin:hover {
 .headcontent .image-content {
     position:relative;
 }
+.headcontent .tweet-link {
+    margin-top: 50px;
+    text-align: right;
+}
+.tweet-link iframe {
+    width: 110px !important;
+}
 .logo-head h1, .headcontent .text-content h1 {
     font-family:'Montserrat', sans-serif;
     text-shadow: 0px 2px 1px #fff;
