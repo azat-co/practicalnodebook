@@ -2,12 +2,15 @@
 .price_block:hover .price,
 .price_block.special .price,
 .contentbody .benefits .items:hover {
-  background: #53532b;
+  /*background: #53532b;*/
+  background: #fed000;
 }
+
+/*.contentbody .benefits .items i
+.content-title .separator-title h2,
+*/
 a,
 .headcontent .text-content h1,
-.content-title .separator-title h2,
-.contentbody .benefits .items i,
 .comment .testi .testi-profile .testi-name strong {
   color: #53532b;
 }

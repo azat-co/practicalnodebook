@@ -607,11 +607,14 @@ span.icon-separator i {
     font-weight: 300;
     line-height: 25px;
 }
-.contentbody .benefits .items p {
+.contentbody .benefits .items {
     font-family:'Oxygen', sans-serif;
     font-size: 14px;
     font-weight: 300;
     line-height: 25px;
+}
+.contentbody .benefits .items {
+    cursor: default;
 }
 .bookreview {
     background:url('../images/base-section.png');
